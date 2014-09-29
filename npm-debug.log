@@ -1,0 +1,254 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\DevTool\\nodejs\\\\node.exe',
+1 verbose cli   'D:\\DevTool\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.30
+4 verbose node symlink D:\DevTool\nodejs\\node.exe
+5 warn package.json Angular-Project@0.0.1 No repository field.
+6 warn package.json Angular-Project@0.0.1 No README data
+7 verbose readDependencies using package.json deps
+8 verbose install where, deps [ 'D:\\Project\\Angular-Test',
+8 verbose install   [ 'grunt',
+8 verbose install     'grunt-bower-install',
+8 verbose install     'grunt-contrib-clean',
+8 verbose install     'grunt-contrib-connect',
+8 verbose install     'grunt-contrib-jshint',
+8 verbose install     'grunt-contrib-watch',
+8 verbose install     'grunt-karma',
+8 verbose install     'grunt-newer',
+8 verbose install     'jshint-stylish',
+8 verbose install     'karma',
+8 verbose install     'karma-chrome-launcher',
+8 verbose install     'karma-coffee-preprocessor',
+8 verbose install     'karma-firefox-launcher',
+8 verbose install     'karma-html2js-preprocessor',
+8 verbose install     'karma-jasmine',
+8 verbose install     'karma-ng-html2js-preprocessor',
+8 verbose install     'karma-ng-scenario',
+8 verbose install     'karma-phantomjs-launcher',
+8 verbose install     'karma-script-launcher',
+8 verbose install     'load-grunt-tasks' ] ]
+9 info preinstall Angular-Project@0.0.1
+10 verbose readDependencies using package.json deps
+11 verbose already installed skipping grunt@~0.4.1 D:\Project\Angular-Test
+12 verbose already installed skipping grunt-bower-install@^1.6.0 D:\Project\Angular-Test
+13 verbose already installed skipping grunt-contrib-clean@~0.5.0 D:\Project\Angular-Test
+14 verbose already installed skipping grunt-contrib-connect@~0.5.0 D:\Project\Angular-Test
+15 verbose already installed skipping grunt-contrib-jshint@~0.7.1 D:\Project\Angular-Test
+16 verbose already installed skipping grunt-contrib-watch@~0.5.2 D:\Project\Angular-Test
+17 verbose already installed skipping grunt-karma@~0.6.2 D:\Project\Angular-Test
+18 verbose already installed skipping grunt-newer@~0.5.4 D:\Project\Angular-Test
+19 verbose already installed skipping jshint-stylish@~0.1.3 D:\Project\Angular-Test
+20 verbose already installed skipping karma@~0.10.9 D:\Project\Angular-Test
+21 verbose already installed skipping karma-chrome-launcher@~0.1.2 D:\Project\Angular-Test
+22 verbose already installed skipping karma-coffee-preprocessor@~0.1.2 D:\Project\Angular-Test
+23 verbose already installed skipping karma-firefox-launcher@~0.1.3 D:\Project\Angular-Test
+24 verbose already installed skipping karma-html2js-preprocessor@~0.1.0 D:\Project\Angular-Test
+25 verbose already installed skipping karma-jasmine@~0.1.5 D:\Project\Angular-Test
+26 verbose already installed skipping karma-ng-html2js-preprocessor@~0.1.0 D:\Project\Angular-Test
+27 verbose already installed skipping karma-ng-scenario@~0.1.0 D:\Project\Angular-Test
+28 verbose already installed skipping karma-phantomjs-launcher@~0.1.2 D:\Project\Angular-Test
+29 verbose already installed skipping karma-script-launcher@~0.1.0 D:\Project\Angular-Test
+30 verbose already installed skipping load-grunt-tasks@~0.2.0 D:\Project\Angular-Test
+31 silly resolved []
+32 info build D:\Project\Angular-Test
+33 verbose linkStuff [ false, false, false, 'D:\\Project' ]
+34 info linkStuff Angular-Project@0.0.1
+35 verbose linkBins Angular-Project@0.0.1
+36 verbose linkMans Angular-Project@0.0.1
+37 verbose rebuildBundles Angular-Project@0.0.1
+38 verbose rebuildBundles [ '.bin',
+38 verbose rebuildBundles   'bower',
+38 verbose rebuildBundles   'grunt',
+38 verbose rebuildBundles   'grunt-bower-install',
+38 verbose rebuildBundles   'grunt-contrib-clean',
+38 verbose rebuildBundles   'grunt-contrib-concat',
+38 verbose rebuildBundles   'grunt-contrib-connect',
+38 verbose rebuildBundles   'grunt-contrib-jshint',
+38 verbose rebuildBundles   'grunt-contrib-watch',
+38 verbose rebuildBundles   'grunt-karma',
+38 verbose rebuildBundles   'grunt-newer',
+38 verbose rebuildBundles   'grunt-open',
+38 verbose rebuildBundles   'grunt-shell',
+38 verbose rebuildBundles   'jshint-stylish',
+38 verbose rebuildBundles   'karma',
+38 verbose rebuildBundles   'karma-chrome-launcher',
+38 verbose rebuildBundles   'karma-coffee-preprocessor',
+38 verbose rebuildBundles   'karma-firefox-launcher',
+38 verbose rebuildBundles   'karma-html2js-preprocessor',
+38 verbose rebuildBundles   'karma-jasmine',
+38 verbose rebuildBundles   'karma-mocha',
+38 verbose rebuildBundles   'karma-ng-html2js-preprocessor',
+38 verbose rebuildBundles   'karma-ng-scenario',
+38 verbose rebuildBundles   'karma-phantomjs-launcher',
+38 verbose rebuildBundles   'karma-requirejs',
+38 verbose rebuildBundles   'karma-script-launcher',
+38 verbose rebuildBundles   'load-grunt-tasks',
+38 verbose rebuildBundles   'mocha',
+38 verbose rebuildBundles   'requirejs' ]
+39 verbose rebuild bundle D:\Project\Angular-Test\node_modules\bower
+40 info build D:\Project\Angular-Test\node_modules\bower
+41 info preinstall bower@1.3.9
+42 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+43 info linkStuff bower@1.3.9
+44 warn prefer global bower@1.3.9 should be installed with -g
+45 verbose linkBins bower@1.3.9
+46 verbose link bins [ { bower: 'bin/bower' },
+46 verbose link bins   'D:\\Project\\Angular-Test\\node_modules\\.bin',
+46 verbose link bins   false ]
+47 verbose linkMans bower@1.3.9
+48 verbose rebuildBundles bower@1.3.9
+49 verbose rebuildBundles [ '.bin',
+49 verbose rebuildBundles   'abbrev',
+49 verbose rebuildBundles   'archy',
+49 verbose rebuildBundles   'bower-config',
+49 verbose rebuildBundles   'bower-endpoint-parser',
+49 verbose rebuildBundles   'bower-json',
+49 verbose rebuildBundles   'bower-logger',
+49 verbose rebuildBundles   'bower-registry-client',
+49 verbose rebuildBundles   'cardinal',
+49 verbose rebuildBundles   'chalk',
+49 verbose rebuildBundles   'chmodr',
+49 verbose rebuildBundles   'decompress-zip',
+49 verbose rebuildBundles   'fstream',
+49 verbose rebuildBundles   'fstream-ignore',
+49 verbose rebuildBundles   'glob',
+49 verbose rebuildBundles   'graceful-fs',
+49 verbose rebuildBundles   'handlebars',
+49 verbose rebuildBundles   'inquirer',
+49 verbose rebuildBundles   'insight',
+49 verbose rebuildBundles   'is-root',
+49 verbose rebuildBundles   'junk',
+49 verbose rebuildBundles   'lockfile',
+49 verbose rebuildBundles   'lru-cache',
+49 verbose rebuildBundles   'mkdirp',
+49 verbose rebuildBundles   'mout',
+49 verbose rebuildBundles   'nopt',
+49 verbose rebuildBundles   'opn',
+49 verbose rebuildBundles   'osenv',
+49 verbose rebuildBundles   'p-throttler',
+49 verbose rebuildBundles   'promptly',
+49 verbose rebuildBundles   'q',
+49 verbose rebuildBundles   'request',
+49 verbose rebuildBundles   'request-progress',
+49 verbose rebuildBundles   'retry',
+49 verbose rebuildBundles   'rimraf',
+49 verbose rebuildBundles   'semver',
+49 verbose rebuildBundles   'shell-quote',
+49 verbose rebuildBundles   'stringify-object',
+49 verbose rebuildBundles   'tar',
+49 verbose rebuildBundles   'tmp',
+49 verbose rebuildBundles   'update-notifier',
+49 verbose rebuildBundles   'which' ]
+50 info install bower@1.3.9
+51 info postinstall bower@1.3.9
+52 verbose rebuild bundle D:\Project\Angular-Test\node_modules\grunt-contrib-concat
+53 info build D:\Project\Angular-Test\node_modules\grunt-contrib-concat
+54 info preinstall grunt-contrib-concat@0.3.0
+55 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+56 info linkStuff grunt-contrib-concat@0.3.0
+57 verbose linkBins grunt-contrib-concat@0.3.0
+58 verbose linkMans grunt-contrib-concat@0.3.0
+59 verbose rebuildBundles grunt-contrib-concat@0.3.0
+60 info install grunt-contrib-concat@0.3.0
+61 info postinstall grunt-contrib-concat@0.3.0
+62 verbose rebuild bundle D:\Project\Angular-Test\node_modules\grunt-open
+63 info build D:\Project\Angular-Test\node_modules\grunt-open
+64 info preinstall grunt-open@0.2.3
+65 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+66 info linkStuff grunt-open@0.2.3
+67 verbose linkBins grunt-open@0.2.3
+68 verbose link bins [ { 'grunt-open': 'bin/grunt-open' },
+68 verbose link bins   'D:\\Project\\Angular-Test\\node_modules\\.bin',
+68 verbose link bins   false ]
+69 verbose linkMans grunt-open@0.2.3
+70 verbose rebuildBundles grunt-open@0.2.3
+71 verbose rebuildBundles [ 'open' ]
+72 info install grunt-open@0.2.3
+73 info postinstall grunt-open@0.2.3
+74 verbose rebuild bundle D:\Project\Angular-Test\node_modules\grunt-shell
+75 info build D:\Project\Angular-Test\node_modules\grunt-shell
+76 info preinstall grunt-shell@0.2.2
+77 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+78 info linkStuff grunt-shell@0.2.2
+79 verbose linkBins grunt-shell@0.2.2
+80 verbose linkMans grunt-shell@0.2.2
+81 verbose rebuildBundles grunt-shell@0.2.2
+82 info install grunt-shell@0.2.2
+83 info postinstall grunt-shell@0.2.2
+84 verbose rebuild bundle D:\Project\Angular-Test\node_modules\karma-mocha
+85 info build D:\Project\Angular-Test\node_modules\karma-mocha
+86 info preinstall karma-mocha@0.1.8
+87 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+88 info linkStuff karma-mocha@0.1.8
+89 verbose linkBins karma-mocha@0.1.8
+90 verbose linkMans karma-mocha@0.1.8
+91 verbose rebuildBundles karma-mocha@0.1.8
+92 info install karma-mocha@0.1.8
+93 info postinstall karma-mocha@0.1.8
+94 verbose rebuild bundle D:\Project\Angular-Test\node_modules\karma-requirejs
+95 info build D:\Project\Angular-Test\node_modules\karma-requirejs
+96 info preinstall karma-requirejs@0.2.2
+97 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+98 info linkStuff karma-requirejs@0.2.2
+99 verbose linkBins karma-requirejs@0.2.2
+100 verbose linkMans karma-requirejs@0.2.2
+101 verbose rebuildBundles karma-requirejs@0.2.2
+102 info install karma-requirejs@0.2.2
+103 info postinstall karma-requirejs@0.2.2
+104 verbose rebuild bundle D:\Project\Angular-Test\node_modules\mocha
+105 info build D:\Project\Angular-Test\node_modules\mocha
+106 info preinstall mocha@1.21.4
+107 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+108 info linkStuff mocha@1.21.4
+109 verbose linkBins mocha@1.21.4
+110 verbose link bins [ { mocha: './bin/mocha', _mocha: './bin/_mocha' },
+110 verbose link bins   'D:\\Project\\Angular-Test\\node_modules\\.bin',
+110 verbose link bins   false ]
+111 verbose linkMans mocha@1.21.4
+112 verbose rebuildBundles mocha@1.21.4
+113 verbose rebuildBundles [ '.bin',
+113 verbose rebuildBundles   'commander',
+113 verbose rebuildBundles   'debug',
+113 verbose rebuildBundles   'diff',
+113 verbose rebuildBundles   'glob',
+113 verbose rebuildBundles   'growl',
+113 verbose rebuildBundles   'jade',
+113 verbose rebuildBundles   'mkdirp' ]
+114 info install mocha@1.21.4
+115 info postinstall mocha@1.21.4
+116 verbose rebuild bundle D:\Project\Angular-Test\node_modules\requirejs
+117 info build D:\Project\Angular-Test\node_modules\requirejs
+118 info preinstall requirejs@2.1.14
+119 verbose linkStuff [ false, false, false, 'D:\\Project\\Angular-Test\\node_modules' ]
+120 info linkStuff requirejs@2.1.14
+121 verbose linkBins requirejs@2.1.14
+122 verbose link bins [ { 'r.js': './bin/r.js' },
+122 verbose link bins   'D:\\Project\\Angular-Test\\node_modules\\.bin',
+122 verbose link bins   false ]
+123 verbose linkMans requirejs@2.1.14
+124 verbose rebuildBundles requirejs@2.1.14
+125 info install requirejs@2.1.14
+126 info postinstall requirejs@2.1.14
+127 info install Angular-Project@0.0.1
+128 info postinstall Angular-Project@0.0.1
+129 verbose unsafe-perm in lifecycle true
+130 info Angular-Project@0.0.1 Failed to exec postinstall script
+131 error Angular-Project@0.0.1 postinstall: `bower install`
+131 error Exit status 1
+132 error Failed at the Angular-Project@0.0.1 postinstall script.
+132 error This is most likely a problem with the Angular-Project package,
+132 error not with npm itself.
+132 error Tell the author that this fails on your system:
+132 error     bower install
+132 error You can get their info via:
+132 error     npm owner ls Angular-Project
+132 error There is likely additional logging output above.
+133 error System Windows_NT 6.1.7601
+134 error command "D:\\DevTool\\nodejs\\\\node.exe" "D:\\DevTool\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+135 error cwd D:\Project\Angular-Test
+136 error node -v v0.10.30
+137 error npm -v 1.4.21
+138 error code ELIFECYCLE
+139 verbose exit [ 1, true ]

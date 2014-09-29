@@ -1,0 +1,5 @@
+{
+  "directory": "node_modules/bower",
+  "json": "bower.json",
+  "protocol"  : "https"
+}
